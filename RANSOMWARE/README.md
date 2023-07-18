@@ -3,3 +3,4 @@
 
 # UPOZORNENI!!!
 ### Nikdy tyto programy nespoustej na svem realnem PC a nebo na PC kde mate data o ktere nechcete prit!!!
+### Varoval jsem vás. Vinu nenesu já ale vi.
